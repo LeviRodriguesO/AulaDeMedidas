@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    height: 4rem;
+    padding-top: 1rem;
+}
+
+.li1{
+    height: 3rem;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+p{
+    height: 4rem;
+    padding-top: 1rem;
+    font-size: 20px;
+}
+
+ol{
+    margin-left: 5vw;
+}
